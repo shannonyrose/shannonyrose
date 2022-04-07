@@ -6,7 +6,7 @@
     <li>I’m a recent Kansas State University graduate with a Management Information Systems degree.</li>
     <li>I have nearly three years of experience in technical support from working at the university's help desk as well as interning at Zoom.</li>
     <li>I'm currently pursuing a career in web development.</li>
-    <li>Other than coding, I love hiking and exploring nature.</li>
+    <li>Other than coding, I love hiking and exploring nature!</li>
   </ul>
                                                                                                                                           
  <h2>Skills</h2>
